@@ -29,4 +29,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Speech emotion recognition with CNN](https://medium.com/@senirukepasinghe/speech-emotion-recognition-with-cnn-8e3c2cbc8375?source=rss-7134a9178cf4------2)
+- [Fine tuning state of arts LLMs](https://medium.com/@senirukepasinghe/fine-tuning-state-of-arts-llms-e4e60111a0f7?source=rss-7134a9178cf4------2)
+- [Importance of technology for our future](https://medium.com/@senirukepasinghe/importance-of-technology-for-our-future-9466442556c4?source=rss-7134a9178cf4------2)
+- [HACKING](https://medium.com/@senirukepasinghe/hacking-56f3083b39e5?source=rss-7134a9178cf4------2)
 <!-- BLOG-POST-LIST:END -->
