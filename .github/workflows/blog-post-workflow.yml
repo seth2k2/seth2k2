@@ -3,13 +3,12 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
-  workflow_dispatch: # allows manual trigger from Actions tab
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rss.app/feeds/ISxgvb1IR0EP5WNG.xml"
+          feed_list: 'https://rss.app/feeds/ISxgvb1IR0EP5WNG.xml'
