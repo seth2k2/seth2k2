@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Seniru Epasinghe</h1>
-<h3 align="center">A passionate AI/ML developer, Blogger, Researcher & a Tutor
+<h3 align="center">A passionate AI/ML developer, Blogger, Researcher & Tutor
 
 <div align="center">
   <a href="https://github.com/seth2k2" target="_blank">
