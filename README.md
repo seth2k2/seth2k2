@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Seniru Epasinghe</h1>
+<h1 align="center">Hi, I'm Seniru Epasinghe</h1>
 <h3 align="center">A passionate AI/ML developer, Blogger, Researcher & a Tutor
 
 <div align="center">
