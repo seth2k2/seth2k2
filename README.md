@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seniru Epasinghe</h1>
 <h3 align="center">A passionate AI/ML developer in Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Python, LLM, NLP, ML, DeepLearning, Agents**
-
-- 👨‍💻 Checkout my models and datasets at [https://huggingface.co/seniruk](https://huggingface.co/seniruk)
-
-- 📝 I regularly write articles on [https://medium.com/@senirukepasinghe](https://medium.com/@senirukepasinghe)
-
-- 📫 How to reach me **senirukepasinghe@gmail.com**
-
 <div align="center">
   <a href="https://github.com/seth2k2" target="_blank">
     <img src="/resources/grid-snake.svg" alt="Azzar Logo"
@@ -16,18 +8,15 @@
   </a>
 </div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/epasingheseniru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epasingheseniru" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/seniru-epasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seniru-epasinghe" height="30" width="40" /></a>
 <a href="https://kaggle.com/seniruepasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="seniruepasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/seth__ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seth__ke" height="30" width="40" /></a>
+<a href="https://huggingface.co/seniruk" target="blank"><img align="center" src="/resources/huggingface-color.svg" alt="https://huggingface.co/seniruk" height="30" width="40" /></a>
 <a href="https://medium.com/@senirukepasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@senirukepasinghe" height="30" width="40" /></a>
-<a href="/medium.com/feed/@senirukepasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="medium.com/feed/@senirukepasinghe" height="30" width="40" /></a>
+<a href="https://twitter.com/epasingheseniru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="epasingheseniru" height="30" width="40" /></a>
+<a href="https://instagram.com/seth__ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seth__ke" height="30" width="40" /></a>
+<a href="mailto:senirukepasinghe@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="mailto:senirukepasinghe@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +27,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seth2k2&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=seth2k2&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-# Blog posts
-
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
