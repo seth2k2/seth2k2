@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seniru Epasinghe</h1>
 <h3 align="center">A passionate AI/ML developer in Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seth2k2&label=Profile%20views&color=0e75b6&style=flat" alt="seth2k2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seth2k2" alt="seth2k2" /></a> </p>
-
 - 🌱 I’m currently learning **Python,LLM,NLP,ML,DeepLearning,Agents**
 
 - 👨‍💻 Checkout my models and datasets at [https://huggingface.co/seniruk](https://huggingface.co/seniruk)
