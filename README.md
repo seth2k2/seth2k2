@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seniru Epasinghe</h1>
 <h3 align="center">A passionate AI/ML developer in Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Python,LLM,NLP,ML,DeepLearning,Agents**
+- 🌱 I’m currently learning **Python, LLM, NLP, ML, DeepLearning, Agents**
 
 - 👨‍💻 Checkout my models and datasets at [https://huggingface.co/seniruk](https://huggingface.co/seniruk)
 
@@ -30,4 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seth2k2&show_icons=true&locale=en" alt="seth2k2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seth2k2&" alt="seth2k2" /></p>
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
